@@ -2,7 +2,7 @@ import yagmail
 
 def send_alert(subject, body):
     sender_email = "2021bbit15@student.uet.edu.pk"
-    app_password = "nyka qnuf xolj etak"  # Not your Gmail password!
+    app_password = "  "  # Not your Gmail password!
 
     receiver = "2021bbit15@student.uet.edu.pk"  # Can be same or someone else
 
